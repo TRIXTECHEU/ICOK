@@ -472,17 +472,17 @@ div._1emja3f9:has(#voiceflow-chat) {
 
 /* Launcher image */
 button.vfrc-button._1q15b0b0.c26d8x0._1q15b0b2.vfrc-launcher.f6dof81._1q15b0b0.c26d8x0._1q15b0b5:has(svg[viewBox="0 0 32 32"]) {
-  width: 42px !important;
-  height: 42px !important;
-  min-width: 42px !important;
-  min-height: 42px !important;
-  max-width: 42px !important;
-  max-height: 42px !important;
+  width: 48px !important;
+  height: 48px !important;
+  min-width: 48px !important;
+  min-height: 48px !important;
+  max-width: 48px !important;
+  max-height: 48px !important;
   background-color: #EEB400 !important;
-  background-image: url("https://i.imgur.com/cvcXKrc.png") !important;
+  background-image: url("https://i.imgur.com/vN46gmt.png") !important;
   background-repeat: no-repeat !important;
-  background-position: center 7px !important;
-  background-size: 26px 26px !important;
+  background-position: center !important;
+  background-size: 32px 32px !important;
   border-radius: 9999px !important;
   overflow: hidden !important;
   transform: none !important;
