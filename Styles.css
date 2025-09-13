@@ -494,7 +494,7 @@ button.vfrc-button._1q15b0b0.c26d8x0._1q15b0b2.vfrc-launcher.f6dof81._1q15b0b0.c
   margin-bottom: 15px !important;
   position: relative !important;
   bottom: auto !important;
-  right: auto !important;
+  right: 5px !important;
 }
 
 /* Wrapper for the SVG */
