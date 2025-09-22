@@ -397,8 +397,7 @@ button.vfrc-button[label="Cancel"]{
   min-height: 100px !important;
   max-width: 100px !important;
   max-height: 100px !important;
-  background-color: #FFF !important;
-  border: 2px solid #EEB400 !important;
+  background-color: transparent !important;
   border-radius: 50% !important;
   overflow: hidden !important;
   display: flex !important;
